@@ -26,7 +26,7 @@ cd backend
 uv venv --python 3.11
 .\.venv\Scripts\Activate.ps1
 ```
-
+# main 작업내용
 ---
 
 ## 📦 3단계: 패키지 설치
