@@ -37,3 +37,5 @@ npm run dev
 http://localhost:8000/api/v1/docs
 
 상세 내용은 각 폴더의 README.md를 참고하세요.
+
+- 추가 진행중 : 26.02.05(목) ~ 26.02.09(월)
